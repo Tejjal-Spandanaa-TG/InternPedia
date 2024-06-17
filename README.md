@@ -4,12 +4,12 @@ Internship Projects
 
 Task 1 - "Portfolio"
 
-In this task, you will build your personal portfolio website to showcase your skills, projects, and achievements as a web developer. Your portfolio is a reflection of your professional identity, so make it stand out with these features:
+In this assignment, you will create a personal portfolio website that highlights your abilities, projects, and accomplishments as a web developer. Your portfolio will serve as a representation of your professional identity.
 
 Task 2 - "Landing Page"
 
-This project aims to create a captivating and user-friendly landing page using HTML and CSS. The landing page serves as the gateway to our website, making it crucial to leave a lasting impression on visitors. Here's what you need to know about the task:
+This project focuses on developing an engaging and easy-to-navigate landing page using HTML and CSS. The landing page acts as the first point of contact for our website, so it's essential to make a memorable impact on visitors.
 
 Task 3 - "Calculator"
 
-This task focuses on building a fully functional calculator website using HTML, CSS, and JavaScript. The calculator should be capable of performing basic arithmetic operations and more complex calculations.
+This task involves creating a comprehensive calculator website using HTML, CSS, and JavaScript. The calculator should be able to handle basic arithmetic operations as well as more advanced calculations.
