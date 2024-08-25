@@ -1,5 +1,3 @@
-CODSOFT
-
 Internship Projects
 
 Task 1 - "Portfolio"
